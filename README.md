@@ -82,4 +82,4 @@ A Java-based console application for managing hotel room bookings, cancellations
 - ❌ Cancel existing reservations
 - 📄 View reservation details by guest name
 - 💾 Persistent storage of reservations (`reservations.ser` file)
->>>>>>> ec9a1387b88e099a01e1ab9baf2fc77a1b614fd4
+
